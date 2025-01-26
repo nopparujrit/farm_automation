@@ -1,4 +1,5 @@
 # farm_automation this project use for eduacation only
+This program is about farming automation in the game with wheat full-automation(collect,plant,seeling, etc)/
 In this project, I learned debugging skills and the importance of a step-by-step approach
 
 # Program Limitation Considerations:
